@@ -3,3 +3,4 @@ ummreader.cfg~
 ummreader.log
 *~
 .#*
+*.pyc
