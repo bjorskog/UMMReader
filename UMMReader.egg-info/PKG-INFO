@@ -1,0 +1,17 @@
+Metadata-Version: 1.0
+Name: UMMReader
+Version: 0.1.0
+Summary: Useful tools for reading UMMs.
+Home-page: UNKNOWN
+Author: bjorskog
+Author-email: bjorn.skogtro@gmail.com
+License: LICENSE.txt
+Description: ==========
+        UMM Parser
+        ==========
+        
+        A package for fetching, parsing and storing UMM (Urgent 
+        Market Messages).
+        
+        
+Platform: UNKNOWN

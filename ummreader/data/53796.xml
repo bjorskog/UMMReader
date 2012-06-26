@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<tso_umm>
+  <capacity_a_b_during>175</capacity_a_b_during>
+  <capacity_a_b_installed>600</capacity_a_b_installed>
+  <capacity_b_a_during>550</capacity_b_a_during>
+  <capacity_b_a_installed>610</capacity_b_a_installed>
+  <line>Baltic Cable</line>
+  <umm new_followup="Followup" parent_id="53759" predecessor_id="53759" u_id="53796">
+    <affected_areas>SE4</affected_areas>
+    <approved>01.06.12 hour 11:13</approved>
+    <company>TenneT Lehrte</company>
+    <decission>01.06.12 hour 11:07</decission>
+    <event_start>01.06.12 hour 00:00</event_start>
+    <event_status>Open</event_status>
+    <event_stop>01.06.12 hour 23:59</event_stop>
+    <event_type>Special information - Details given in remarks below</event_type>
+    <predefined_remark></predefined_remark>
+    <registered>01.06.12 hour 11:13</registered>
+    <remarks>Due to high wind energy feed in germany the capacities will be as followed
+
+00:00 - 09:00 h
+DE to SE4 = 600 MW/North
+
+09:00 - 10:00 h
+DE to SE4 = 300 MW/North
+
+10:00 - 11:00 h
+DE to SE4 = 250 MW/North
+
+11:00 - 12:00 h
+DE to SE4 = 225 MW/North
+
+12:00 - 14:00 h
+DE to SE4 = 200 MW/North
+
+14:00 - 19:00 h
+DE to SE4 = 175 MW/North
+
+19:00 - 20:00 h
+DE to SE4 = 200 MW/North
+
+20:00 - 21:00 h
+DE to SE4 = 225 MW/North
+
+21:00 - 22:00 h
+DE to SE4 = 250 MW/North
+
+22:00 - 23:00 h
+DE to SE4 = 275 MW/North
+
+23:00 - 23:59 h
+DE to SE4 = 300 MW/North
+
+
+00:00 - 11:07 h
+SE4 to DE = 610 MW/South
+
+11:07 - 13:00 h
+SE4 to DE = 550 MW/South (reduced)
+
+13:00 - 23:59 h
+SE4 to DE = 610 MW/South
+
+
+
+
+
+
+
+
+
+
+</remarks>
+    <status>Approved and does not have a Followup</status>
+    <uncertainty>Not applicable</uncertainty>
+  </umm>
+</tso_umm>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<participant_umm>
+  <affected_fuels>Hydro</affected_fuels>
+  <affected_units>G1</affected_units>
+  <effect_during>0</effect_during>
+  <effect_installed>105</effect_installed>
+  <prodcons>Production</prodcons>
+  <station>Borgund</station>
+  <umm new_followup="New" parent_id="53791" predecessor_id="0" u_id="53791">
+    <affected_areas>NO1</affected_areas>
+    <approved>01.06.12 hour 09:49</approved>
+    <company>Østfold Energi</company>
+    <decission>01.06.12 hour 08:50</decission>
+    <event_start>02.06.12 hour 08:00</event_start>
+    <event_status>Open</event_status>
+    <event_stop>02.06.12 hour 14:00</event_stop>
+    <event_type>New planned outage (maintenance)</event_type>
+    <predefined_remark>Required maintenance</predefined_remark>
+    <registered>01.06.12 hour 09:49</registered>
+    <remarks></remarks>
+    <status>Approved and does not have a Followup</status>
+    <uncertainty>Not applicable</uncertainty>
+  </umm>
+</participant_umm>

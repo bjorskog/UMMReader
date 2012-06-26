@@ -1,0 +1,18 @@
+[Local]
+tempdir = /tmp/ummxmls
+logdir = /tmp/
+
+[Nordpool]
+host = ftp.nordpoolspot.com
+username = SOMETHING
+password = SOMETHINGELSE
+path = UMM
+
+[UMM]
+last = 53795
+
+[MongoDB]
+host = localhost
+port = 27017
+database = test-database
+collection = umms

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<participant_umm>
+  <affected_fuels>Nuclear</affected_fuels>
+  <affected_units>B2</affected_units>
+  <effect_during>0</effect_during>
+  <effect_installed>880</effect_installed>
+  <prodcons>Production</prodcons>
+  <station>Olkiluoto</station>
+  <umm new_followup="Followup" parent_id="25941" predecessor_id="53905" u_id="53927">
+    <affected_areas>FI</affected_areas>
+    <approved>07.06.12 hour 16:22</approved>
+    <company>PVO Pool Oy</company>
+    <decission>07.06.12 hour 16:19</decission>
+    <event_start>27.05.12 hour 14:30</event_start>
+    <event_status>Open</event_status>
+    <event_stop>05.06.12 hour 23:52</event_stop>
+    <event_type>Revised planned outage (maintenance)</event_type>
+    <predefined_remark></predefined_remark>
+    <registered>07.06.12 hour 16:22</registered>
+    <remarks>Full power reached at 16:19.</remarks>
+    <status>Approved and does not have a Followup</status>
+    <uncertainty>+/- 1 - 3 days</uncertainty>
+  </umm>
+</participant_umm>
